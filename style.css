@@ -1,0 +1,9 @@
+.style{
+    display: flex;
+    justify-content: center;
+    width: 1400;
+     background-color: aqua; 
+}
+body{
+    background-color: black;
+}
